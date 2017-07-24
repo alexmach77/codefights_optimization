@@ -1,2 +1,3 @@
 # codefights_optimization
-Programming exercises for codefights.com
+
+My solutions for programming exercises on codefights.com
